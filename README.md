@@ -2,8 +2,8 @@
 <br>
 Currently, the internet is so full of content and it's infeasible to evaluate things manually. Our main task would be to predict the weather by analyzing data and categorizing them into certain labels. Such a problem can be solved using various Machine learning techniques, and that’s what we are going to do here. We will then compare the results using some evaluation metrics to understand why it fits the best. There is no fun until it is accessible to every person out there that's why we are here to deploy it too.
 <br>
-<br>
-###WHY MACHINE-LEARNING?
+
+WHY MACHINE-LEARNING?
 <br>
 The purpose of machine learning is to discover patterns in your data and then make predictions based on often complex patterns to answer business questions, detect and analyze trends and help solve problems.
 Discovering patterns and Analyzing data is a task that can also be performed by humans manually but given large datasets and many decision making features we need to SCALE UP!!
@@ -36,16 +36,13 @@ Google colaboratory<br>
 Numpy, pandas<br>
 Tensorflow
 <br>
-<br>
 ###1.DATA MANAGEMENT<br>
   PANDAS<br> 
   NUMPY<br>
 <br>
-<br>
 ###2.DATA VISUALIZATION<br>
  PYTHON-MATPLOTLIB<br>
  SEABORN<br>
-<br>
 <br>
  ###3.Models:<br>
   LOGISTIC REGRESSION<br>
@@ -53,7 +50,6 @@ Tensorflow
   Artificial Neural Networks (ANN)<br>
   KNN<br>
  
- <br>
  <br>
  
 **4.Deployment:**<br>
