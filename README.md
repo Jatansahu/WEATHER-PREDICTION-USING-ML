@@ -14,6 +14,7 @@ Here Machine learning comes into the picture, which can be used to easily scale 
 ###Machine learning pipeline<br>
 COLLECT>>STORE>>ENRICH>>TRAIN/APPLY>>VISUALIZE
 <br>
+---
 **1.Collect :-** 
 First and the most important step is to collect data coz without it we can’t proceed further. We need a sufficient  quantity of  data so that our model can be trained such that it makes accurate predictions. Nowadays techniques like web-scraping are used to extract data from web and open-source websites like kaggle provides some general purpose datasets for free.
 <br>
@@ -29,22 +30,24 @@ The data we get can have following problems at some points or columns: incomplet
   
 <br>
 <br>
-###Tools and Technologies:<br>
+---
+**Tools and Technologies:**<br>
 Python<br>
 Sklearn<br>
 Google colaboratory<br>
 Numpy, pandas<br>
 Tensorflow
-<br>
-###1.DATA MANAGEMENT<br>
+<br><br>
+**STEPS** <br>
+**1.DATA MANAGEMENT<br>**
   PANDAS<br> 
   NUMPY<br>
 <br>
-###2.DATA VISUALIZATION<br>
+**2.DATA VISUALIZATION**<br>
  PYTHON-MATPLOTLIB<br>
  SEABORN<br>
 <br>
- ###3.Models:<br>
+ **3.Models:** <br>
   LOGISTIC REGRESSION<br>
   NAIVE BAYE<br>
   Artificial Neural Networks (ANN)<br>
