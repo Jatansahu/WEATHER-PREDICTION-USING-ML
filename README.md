@@ -24,9 +24,9 @@ After collecting data we need to store that data such that it is machine readabl
 **3.Enrich-** 
 The data we get can have following problems at some points or columns: incomplete,not-scaled,deviating,non-numeric etc.  To brush-up the data we use the Pandas library in python so that our machine learning model does not get confused by some data inaccuracies.
 
-**4.Train/Test -** Perhaps the heart of the machine learning pipeline is this step where the actual learning takes place where our machine learning model learns from the data given to it. First we split the data into train-data(given to a machine learning model to train) and test-data(used to evaluate our model accuracy). After that the train data is passed on to a machine learning algorithm where actually the machine learns from our data by using mathematics to find patterns in the data.
+4.Train/Test - Perhaps the heart of the machine learning pipeline is this step where the actual learning takes place where our machine learning model learns from the data given to it. First we split the data into train-data(given to a machine learning model to train) and test-data(used to evaluate our model accuracy). After that the train data is passed on to a machine learning algorithm where actually the machine learns from our data by using mathematics to find patterns in the data.
 <br>
-**5.Visualize -** After our model is ready it is the time we test our model. The data predictions made by our model are generally numbers which are very hard to visualize and ponder upon. So we plot these predictions on different kinds of graphs to visualize future data trends in a clear manner. We will be using matplotlib/seaborn for data visualization.
+5.Visualize - After our model is ready it is the time we test our model. The data predictions made by our model are generally numbers which are very hard to visualize and ponder upon. So we plot these predictions on different kinds of graphs to visualize future data trends in a clear manner. We will be using matplotlib/seaborn for data visualization.
   
 <br>
 <br>
@@ -39,15 +39,15 @@ Numpy, pandas<br>
 Tensorflow
 <br><br>
 **STEPS** <br>
-**1.DATA MANAGEMENT<br>**
+1.DATA MANAGEMENT<br>
   PANDAS<br> 
   NUMPY<br>
 <br>
-**2.DATA VISUALIZATION**<br>
+2.DATA VISUALIZATION<br>
  PYTHON-MATPLOTLIB<br>
  SEABORN<br>
 <br>
- **3.Models:** <br>
+3.Models: <br>
   LOGISTIC REGRESSION<br>
   NAIVE BAYE<br>
   Artificial Neural Networks (ANN)<br>
@@ -55,7 +55,7 @@ Tensorflow
  
  <br>
  
-**4.Deployment:**<br>
+4.Deployment:<br>
  Flask + Html + Css<br>
  Tkinter<br>
 
