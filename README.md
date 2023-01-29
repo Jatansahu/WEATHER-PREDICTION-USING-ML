@@ -14,7 +14,7 @@ Here Machine learning comes into the picture, which can be used to easily scale 
 **Machine learning pipeline**<br>
 COLLECT>>STORE>>ENRICH>>TRAIN/APPLY>>VISUALIZE
 <br>
-**1.Collect : -** First and the most important step is to collect data coz without it we can’t proceed further. We need a sufficient  quantity of  data so that our model can be trained such that it makes accurate predictions. Nowadays techniques like web-scraping are used to extract data from web and open-source websites like kaggle provides some general purpose datasets for free.
+**1.Collect :-** First and the most important step is to collect data coz without it we can’t proceed further. We need a sufficient  quantity of  data so that our model can be trained such that it makes accurate predictions. Nowadays techniques like web-scraping are used to extract data from web and open-source websites like kaggle provides some general purpose datasets for free.
 <br>
 **2.Store-** After collecting data we need to store that data such that it is machine readable.Eg. We use .csv files in general to read data from as python libraries provide functions that can parse and read csv files automatically.
 <br>
