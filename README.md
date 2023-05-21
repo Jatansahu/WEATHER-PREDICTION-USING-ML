@@ -1,5 +1,13 @@
 # WEATHER PREDICTION CASE STUDY
 <br>
+Predict weather conditions by analyzing data and categorizing them using machine learning techniques. This repository covers data management with Pandas and NumPy, data visualization with Matplotlib and Seaborn, and implementation of models like Logistic Regression, Naive Bayes, Artificial Neural Networks (ANN), and KNN. Explore feature importance, compare model performances, and gain insights for accurate weather predictions.
+
+Tools and Technologies: Python, Sklearn, Google Colaboratory, NumPy, Pandas, TensorFlow.
+
+Steps: Data Management (Pandas, NumPy), Data Visualization (Matplotlib, Seaborn), Models (Logistic Regression, Naive Bayes, ANN, KNN)
+
+
+
 Currently, the internet is so full of content and it's infeasible to evaluate things manually. Our main task would be to predict the weather by analyzing data and categorizing them into certain labels. Such a problem can be solved using various Machine learning techniques, and that’s what we are going to do here. We will then compare the results using some evaluation metrics to understand why it fits the best. There is no fun until it is accessible to every person out there that's why we are here to deploy it too.
 <br>
 
@@ -55,9 +63,6 @@ Tensorflow
  
  <br>
  
-4.Deployment:<br>
- Flask + Html + Css<br>
- Tkinter<br>
 
 **PROJECT IN 4 PARTS:**
 <br>
@@ -66,5 +71,4 @@ Tensorflow
 2)Understanding feature importance and trying different methods. Implementing two basic models on real world data.
 <br>
 3)Implementing two more advanced algorithms and comparing their performances.<br>
-4)Deployment of model once ready.
 
