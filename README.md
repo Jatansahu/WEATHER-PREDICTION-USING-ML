@@ -64,7 +64,7 @@ Tensorflow
  <br>
  
 
-**PROJECT IN 4 PARTS:**
+**PROJECT IN 3 PARTS:**
 <br>
 1)Getting started with Data Handling and Visualization with Pandas and Matplotlib/Seaborn.
 <br>
