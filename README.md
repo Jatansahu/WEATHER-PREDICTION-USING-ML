@@ -1,5 +1,6 @@
 # WEATHER PREDICTION CASE STUDY
-#woc5.0-ml-weather-prediction-case-study-jatan-sahu
+
+# woc5.0-ml-weather-prediction-case-study-jatan-sahu
 
 <br>
 Predict weather conditions by analyzing data and categorizing them using machine learning techniques. This repository covers data management with Pandas and NumPy, data visualization with Matplotlib and Seaborn, and implementation of models like Logistic Regression, Naive Bayes, Artificial Neural Networks (ANN), and KNN. Explore feature importance, compare model performances, and gain insights for accurate weather predictions.
